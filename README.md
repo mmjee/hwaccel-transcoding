@@ -1,6 +1,6 @@
 # Hardware accelerated transcoding scripts
 
-These scripts here are meant to work with NVIDIA's NVDEC/CUVID and VDPAU wherever applicable.
+These scripts here are meant to work with NVIDIA's NVENC/CUVID and VDPAU wherever applicable.
 
 These scripts are executable, so run them like
 
